@@ -99,14 +99,16 @@ const Timeline = () => {
         version control, Figma for designing wireframes, VS Code as an IDE, and
         Slack, Zoom, and Microsoft Teams as communication channels. If you would
         like to see some of my work and find out a bit more about me, please
-        visit: https://github.com/Ilie1985 or click the 'Portfolio' link:
-        https://marians-portfolio.netlify.app. In previous roles, I have shown
-        my ability to be customer-focused, to work under pressure to meet
-        targets, and to communicate with co-workers of all backgrounds and
-        abilities.. Overall, I have effective communication skills, love to
-        learn, and have a positive outlook. I like spending time , computational
-        thinking comes naturally to me. I work efficiently in a team using agile
-        framework and iterative approach to develop, test and deploy software.
+        visit:<a href="https://github.com/Ilie1985"> GitHub </a> or click to see
+        my Portfolio :
+        <a href="https://marians-portfolio.netlify.app"> Portfolio </a>. In
+        previous roles, I have shown my ability to be customer-focused, to work
+        under pressure to meet targets, and to communicate with co-workers of
+        all backgrounds and abilities.. Overall, I have effective communication
+        skills, love to learn, and have a positive outlook. I like spending time
+        , computational thinking comes naturally to me. I work efficiently in a
+        team using agile framework and iterative approach to develop, test and
+        deploy software.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         {/* loop over the time line data */}
